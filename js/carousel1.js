@@ -67,7 +67,6 @@ const imagesAll=[
     'images/pic-16.jpg',
     'images/pic-17.jpg',
     'images/pic-18.jpg',
-    'images/pic-19.jpg',
 ]
 let imgIndex= 0;
 // for image Set to DOM
